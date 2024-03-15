@@ -1,1 +1,9 @@
 # udemy-js-flix-app
+
+https://www.themoviedb.org/
+
+Appi Key
+93b71343625776deca27d56ecf30ade2
+
+API access token
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5M2I3MTM0MzYyNTc3NmRlY2EyN2Q1NmVjZjMwYWRlMiIsInN1YiI6IjY1ZjQ0MzM2NTk1YTU2MDE4NjA2Yzk2OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.fE-tA7AH8hXgUXIwJInrD2s4rfPddnzjnyZQha9aH5I
